@@ -1,6 +1,5 @@
 title: "Portafolio de Ciberseguridad - Andrea Muñoz"
-description: "Proyectos, auditorías y formación profesional."
-theme: jekyll-theme-cayman
-
+description: "Proyectos, auditorías y formación profesional"
+theme: jekyll-theme-cayman  
 baseurl: "/portafolio"
 url: "https://anmunozc.github.io"
