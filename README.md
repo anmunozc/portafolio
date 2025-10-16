@@ -8,17 +8,17 @@ Este espacio refleja mi transición desde el soporte técnico hacia el análisis
 ## 📂 Estructura
 
 | Carpeta | Descripción |
-|---------|-------------|
-| [`cv/`](/portafolio/cv/) | Mi currículum técnico en formato PDF y Markdown. |
-| [`projects/`](/portafolio/projects/) | Proyectos destacados desarrollados durante mis estudios y formación profesional. |
+|----------|-------------|
+| [`cv/`]({{ site.baseurl }}/cv/) | Mi currículum técnico en formato PDF y Markdown. |
+| [`projects/`]({{ site.baseurl }}/projects/) | Proyectos destacados desarrollados durante mis estudios y formación profesional. |
 
 ---
 
 ## 🔍 Proyecto destacado actual
 
 | Proyecto | Descripción | Enlace |
-|----------|-------------|--------|
-| 🧾 **Auditoría Interna – Botium Toys** | Auditoría basada en el marco NIST CSF, evaluando riesgos y cumplimiento normativo. | [Ver proyecto](/portafolio/projects/auditoria-botium-toys) |
+|-----------|--------------|--------|
+| 🧾 **Auditoría Interna – Botium Toys** | Auditoría basada en el marco NIST CSF, evaluando riesgos y cumplimiento normativo. | [Ver proyecto]({{ site.baseurl }}/projects/auditoria-botium-toys) |
 
 ---
 
