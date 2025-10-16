@@ -1,0 +1,22 @@
+PORTAFOLIO/
+├── README.md
+│
+├── cv/
+│   ├── README.md
+│   ├── AMC_CV.md
+│   └── Curriculum_2025_AMC.pdf
+│
+└── projects/
+    └── auditoria-botium-toys/
+        ├── README.md
+        ├── risk_assessment.md
+        ├── checklist_controles.xlsx
+        │
+        ├── assets/
+        │   └── (capturas o diagramas opcionales)
+        │
+        └── docs/
+            ├── botium_toys.docx
+            ├── categorias_control.docx
+            ├── controls_compliance.docx
+            └── estructura.txt
