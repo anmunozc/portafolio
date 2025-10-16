@@ -18,7 +18,7 @@ Este espacio refleja mi transición desde el soporte técnico hacia el análisis
 
 | Proyecto | Descripción | Enlace |
 |-----------|--------------|--------|
-| 🧾 **Auditoría Interna – Botium Toys** | Auditoría basada en el marco NIST CSF, evaluando riesgos y cumplimiento normativo. | [Ver proyecto](./projects/auditoria-botium-toys) |
+| 🧾 **Auditoría Interna – Botium Toys** | Auditoría basada en el marco NIST CSF, evaluando riesgos y cumplimiento normativo. | [Ver proyecto](https://anmunozc.github.io/portafolio/projects/auditoria-botium-toys) |
 
 ---
 
