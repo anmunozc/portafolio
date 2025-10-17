@@ -1,13 +1,13 @@
-# ğŸ§© AuditorÃ­a Interna de Ciberseguridad â€” Botium Toys
+# í·© AuditorÃ­a Interna de Ciberseguridad â€” Botium Toys
 
-## ğŸ“˜ DescripciÃ³n
+## í³˜ DescripciÃ³n
 
 AuditorÃ­a interna realizada para la empresa ficticia **Botium Toys**, aplicando el **NIST Cybersecurity Framework (CSF)**.  
 El objetivo fue evaluar su postura de seguridad, identificar riesgos y proponer mejoras en cumplimiento y gestiÃ³n.
 
 ---
 
-## ğŸ“‚ Documentos del proyecto
+## í³‚ Documentos del proyecto
 
 | Archivo | DescripciÃ³n |
 |----------|-------------|
@@ -18,7 +18,7 @@ El objetivo fue evaluar su postura de seguridad, identificar riesgos y proponer 
 
 ---
 
-## ğŸ§­ Resultados principales
+## í·­ Resultados principales
 
 - **Nivel de madurez NIST:** Tier 2 â€“ *Partial*  
 - **Riesgos crÃ­ticos:**  
@@ -28,7 +28,7 @@ El objetivo fue evaluar su postura de seguridad, identificar riesgos y proponer 
 
 ---
 
-## ğŸ’¡ Recomendaciones
+## í²¡ Recomendaciones
 
 1. Implementar MFA en todas las cuentas crÃ­ticas.  
 2. Establecer inventario centralizado de activos.  
@@ -38,7 +38,7 @@ El objetivo fue evaluar su postura de seguridad, identificar riesgos y proponer 
 
 ---
 
-ğŸ“ **Volver al portafolio principal:**  
+í³ **Volver al portafolio principal:**  
 [â¬…ï¸ Inicio](https://anmunozc.github.io/portafolio/)
 
 > â€œEntre juguetes y firewalls, descubrÃ­ que la confianza tambiÃ©n se construye con cÃ³digo.â€
