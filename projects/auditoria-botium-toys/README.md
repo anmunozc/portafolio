@@ -11,10 +11,10 @@ El objetivo fue evaluar su postura de seguridad, identificar riesgos y proponer 
 
 | Archivo | Descripción |
 |----------|-------------|
-| [`risk_assessment.md`]({{ site.baseurl }}/projects/auditoria-botium-toys/risk_assessment.md) | Evaluación de riesgos y alcance de la auditoría. |
-| [`checklist_controles.xlsx`]({{ site.baseurl }}/projects/auditoria-botium-toys/checklist_controles.xlsx) | Lista de comprobación de controles y cumplimiento. |
-| [`docs/`]({{ site.baseurl }}/projects/auditoria-botium-toys/docs/) | Materiales de referencia y documentos de apoyo. |
-| [`assets/`]({{ site.baseurl }}/projects/auditoria-botium-toys/assets/) | Imágenes o diagramas relacionados (opcional). |
+| [`risk_assessment.md`](https://anmunozc.github.io/portafolio/projects/auditoria-botium-toys/risk_assessment.md) | Evaluación de riesgos y alcance de la auditoría. |
+| [`checklist_controles.xlsx`](https://anmunozc.github.io/portafolio/projects/auditoria-botium-toys/checklist_controles.xlsx) | Lista de comprobación de controles y cumplimiento. |
+| [`docs/`](https://anmunozc.github.io/portafolio/projects/auditoria-botium-toys/docs/) | Materiales de referencia y documentos de apoyo. |
+| [`assets/`](https://anmunozc.github.io/portafolio/projects/auditoria-botium-toys/assets/) | Imágenes o diagramas relacionados. |
 
 ---
 
@@ -39,6 +39,6 @@ El objetivo fue evaluar su postura de seguridad, identificar riesgos y proponer 
 ---
 
 📎 **Volver al portafolio principal:**  
-[⬅️ Inicio]({{ site.baseurl }}/)
+[⬅️ Inicio](https://anmunozc.github.io/portafolio/)
 
 > “Entre juguetes y firewalls, descubrí que la confianza también se construye con código.”

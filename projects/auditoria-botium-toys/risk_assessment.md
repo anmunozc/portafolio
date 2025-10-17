@@ -48,3 +48,4 @@ La auditoría cubre los activos críticos de la empresa **Botium Toys**, incluye
 ---
 
 > *“La seguridad de una empresa no se mide por la ausencia de incidentes, sino por su capacidad de detectarlos y aprender de ellos.”*
+[⬅️ Volver al inicio](https://anmunozc.github.io/portafolio/)
