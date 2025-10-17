@@ -41,6 +41,4 @@ El objetivo fue evaluar su postura de seguridad, identificar riesgos y proponer 
 📎 **Volver al portafolio principal:**  
 [⬅️ Inicio]({{ site.baseurl }}/)
 
----
-
 > “Entre juguetes y firewalls, descubrí que la confianza también se construye con código.”
