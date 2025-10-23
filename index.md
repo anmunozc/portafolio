@@ -3,11 +3,6 @@ layout: default
 title: "Portafolio — Andrea Muñoz Carrasco"
 ---
 
-  <h1 style="font-size: 2.2em; margin-bottom: 0.3em;">🛡️ Portafolio</h1>
-  <h2 style="font-weight: normal; margin-top: 0; font-size: 1.4em;">Andrea Muñoz Carrasco</h2>
-  <p style="font-style: italic; color: #cfd8dc; max-width: 700px; margin: 10px auto;">“Cada auditoría es una historia: detectas, corriges y proteges la confianza.”</p>
-</div>
-
 ---
 
 ## 💫 Bienvenida
