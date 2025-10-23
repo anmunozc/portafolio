@@ -1,10 +1,10 @@
 ---
 layout: default
-title: "Portafolio — Andrea Muñoz Carrasco"
+title: "Portafolio de Ciberseguridad — Andrea Muñoz Carrasco"
 ---
 
 <div class="main-banner">
-  <img src="https://anmunozc.github.io/portafolio/assets/banner_portafolio.jpg" alt="Banner del portafolio de Andrea Muñoz" class="banner-image">
+<img src="https://anmunozc.github.io/portafolio/assets/banner_portafolio.jpg" alt="Banner del portafolio de Andrea Muñoz" class="banner-image" />
   <p class="banner-quote">“Cada auditoría es una historia: detectas, corriges y proteges la confianza.”</p>
 </div>
 
