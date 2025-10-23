@@ -1,3 +1,17 @@
+---
+layout: default
+title: "Portafolio de Ciberseguridad — Andrea Muñoz Carrasco"
+---
+
+<div style="text-align:center; padding: 40px 10px; background: linear-gradient(135deg, #0a192f, #12294b); border-radius: 20px; color: white; box-shadow: 0 4px 15px rgba(0,0,0,0.3);">
+  <img src="https://anmunozc.github.io/portafolio/assets/banner_portafolio.jpg" alt="Banner del portafolio de Andrea Muñoz" style="width:90%; max-width:800px; border-radius: 12px; margin-bottom: 20px;">
+    <p style="font-style: italic; color: #cfd8dc; max-width: 700px; margin: 10px auto;">“Cada auditoría es una historia: detectas, corriges y proteges la confianza.”</p>
+</div>
+
+---
+
+---
+
 # 🛡️ Portafolio  — AMC
 Bienvenida/o a mi portafolio profesional, donde reúno mis proyectos, auditorías y aprendizajes en el ámbito de la **Programación** y **Ciberseguridad**
 Este espacio refleja mi transición desde el soporte técnico hacia el análisis y defensa de la información digital.
