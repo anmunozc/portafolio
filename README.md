@@ -1,6 +1,5 @@
-# 🛡️ Portafolio de Ciberseguridad — Andrea Muñoz Carrasco
-
-Bienvenida/o a mi portafolio profesional, donde reúno mis proyectos, auditorías y aprendizajes en el ámbito de la **ciberseguridad**.  
+# 🛡️ Portafolio  — AMC
+Bienvenida/o a mi portafolio profesional, donde reúno mis proyectos, auditorías y aprendizajes en el ámbito de la **Programación** y **Ciberseguridad**
 Este espacio refleja mi transición desde el soporte técnico hacia el análisis y defensa de la información digital.
 
 ---
