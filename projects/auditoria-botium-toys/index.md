@@ -9,8 +9,8 @@ El objetivo fue identificar vulnerabilidades, riesgos y controles clave para gar
 
 | Sección | Descripción | Enlace |
 |----------|-------------|--------|
-| 📘 **Documentos técnicos** | Archivos de apoyo, plantillas y referencias usadas durante la auditoría. | [Abrir carpeta `docs/`](https://anmunozc.github.io/portafolio/projects/auditoria-botium-toys/docs/) |
-| 🖼️ **Recursos visuales** | Diagramas, capturas y materiales visuales del proyecto. | [Abrir carpeta `assets/`](https://anmunozc.github.io/portafolio/projects/auditoria-botium-toys/assets/) |
+| 📘 **Documentos técnicos** | Archivos de apoyo, plantillas y referencias usadas durante la auditoría. | [Abrir carpeta](https://anmunozc.github.io/portafolio/projects/auditoria-botium-toys/docs/) |
+| 🖼️ **Recursos visuales** | Diagramas, capturas y materiales visuales del proyecto. | [Abrir carpeta](https://anmunozc.github.io/portafolio/projects/auditoria-botium-toys/assets/) |
 
 ---
 
