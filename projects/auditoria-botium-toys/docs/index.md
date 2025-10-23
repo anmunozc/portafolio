@@ -1,4 +1,4 @@
-# 📚 Documentos de apoyo — Botium Toys
+# 📚 Documentos de apoyo — Botium Toys (Trabajo Formativo)
 
 Aquí se reúnen los archivos de referencia y apoyo usados durante la auditoría interna,  
 como plantillas, reportes de riesgo y listas de control de cumplimiento.
@@ -7,8 +7,8 @@ como plantillas, reportes de riesgo y listas de control de cumplimiento.
 
 | Archivo | Descripción |
 |----------|-------------|
-| *Ejemplo:* `checklist_controles.xlsx` | Lista de verificación de controles basada en NIST CSF. |
-| *Ejemplo:* `evaluacion_riesgos.md` | Informe de evaluación de riesgos y análisis de impacto. |
+| *Lista de verificación de controles y cumplimiento:* (https://github.com/anmunozc/portafolio/blob/main/projects/auditoria-botium-toys/docs/controls_compliance.docx) | Lista de verificación de controles basada en NIST CSF. |
+| *Alcances, objetivos e informe de evaluación de riesgos:* (https://github.com/anmunozc/portafolio/blob/main/projects/auditoria-botium-toys/docs/botium_toys.docx) | Informe de evaluación de riesgos y análisis de impacto. |
 
 ---
 
