@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Portafolio — Andrea Muñoz Carrasco"
+title: "Portafolio — AMC"
 ---
 
 ---
