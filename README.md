@@ -2,11 +2,11 @@
 layout: default
 title: "Portafolio — Andrea Muñoz Carrasco"
 ---
-
 <div style="text-align:center; padding: 40px 10px; background: linear-gradient(135deg, #0a192f, #12294b); border-radius: 20px; color: white; box-shadow: 0 4px 15px rgba(0,0,0,0.3);">
-  <h1 style="font-size: 2.2em; margin-bottom: 0.3em;">🛡️ Portafolio de Ciberseguridad</h1>
-  <h2 style="font-weight: normal; margin-top: 0; font-size: 1.4em;">Andrea Muñoz Carrasco</h2>
-  <p style="font-style: italic; color: #cfd8dc; max-width: 700px; margin: 10px auto;">“Cada auditoría es una historia: detectas, corriges y proteges la confianza.”</p>
+  <img src="https://anmunozc.github.io/portafolio/assets/banner_portafolio.jpg" alt="Banner del portafolio de Andrea Muñoz" style="width:90%; max-width:800px; border-radius: 12px; margin-bottom: 20px;">
+  <h1 style="font-size: 2.2em; margin-bottom: 0.3em;">🛡️ Portafolio de Ciberseguridad</h1>
+  <h2 style="font-weight: normal; margin-top: 0; font-size: 1.4em;">Andrea Muñoz Carrasco</h2>
+  <p style="font-style: italic; color: #cfd8dc; max-width: 700px; margin: 10px auto;">“Cada auditoría es una historia: detectas, corriges y proteges la confianza.”</p>
 </div>
 
 # 🛡️ Portafolio — AMC
