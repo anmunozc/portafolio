@@ -10,6 +10,7 @@ Cada proyecto refleja el análisis, la metodología y el control aplicados a esc
 | Proyecto | Descripción | Enlace |
 |-----------|--------------|--------|
 | 🧾 **Auditoría Interna – Botium Toys** | Evaluación interna de seguridad basada en el marco NIST CSF, incluyendo análisis de riesgos y controles. | [Ver proyecto](https://anmunozc.github.io/portafolio/projects/auditoria-botium-toys/) |
+| 🧾 **Auditoría Interna – Ataque DDoS** | Evaluación interna de seguridad basada en el marco NIST CSF, incluyendo análisis de riesgos y controles. | [Ver proyecto](https://anmunozc.github.io/portafolio/projects/ataque-ddos) |
 
 ---
 
