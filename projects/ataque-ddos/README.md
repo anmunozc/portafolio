@@ -1,8 +1,28 @@
-## 💥 Análisis de Incidente: Ataque DDoS (NIST CSF)
+# 💥 Análisis de Incidente: Ataque DDoS (NIST CSF)
 
 ## Descripción
 
 Análisis de la gestión de un incidente de **Denegación de Servicio Distribuido (DDoS)** que afectó a la red interna de una organización multimedia. La respuesta y el análisis se estructuraron siguiendo las cinco funciones del **NIST Cybersecurity Framework (CSF)**.
+
+---
+
+## 🎯 Contexto del Proyecto
+
+### **Objetivo del Informe**
+
+El objetivo principal de este informe es utilizar un incidente de seguridad real (ataque DDoS) como estudio de caso para demostrar la aplicación del **Marco de Ciberseguridad (CSF) del NIST**. Esto implica:
+
+1.  Analizar el evento de seguridad a través de las cinco funciones del CSF (Identificar, Proteger, Detectar, Responder y Recuperar).
+2.  Crear un plan estratégico para mejorar la postura de seguridad de la red y mitigar futuras recurrencias.
+3.  Servir como evidencia de competencia técnica para un portafolio de ciberseguridad.
+
+### **Escenario del Incidente**
+
+La organización, una empresa multimedia que ofrece servicios de diseño web y marketing, sufrió un **ataque de Denegación de Servicio Distribuido (DDoS)** que resultó en la indisponibilidad total de su red interna durante dos horas.
+
+* **Detalle Técnico:** El ataque se realizó mediante una **avalancha de paquetes ICMP entrantes** (Inundación de Ping) que abrumó la infraestructura.
+* **Causa Raíz:** Un **cortafuego perimetral no configurado** adecuadamente (falta de limitación de tasa y filtrado de ICMP), lo que permitió la explotación.
+* **Acciones Correctivas Post-Incidente:** El equipo de seguridad implementó inmediatamente una nueva regla de `rate-limiting` para ICMP, verificación de IP de origen, software de monitoreo de red y un sistema IDS/IPS.
 
 ---
 
